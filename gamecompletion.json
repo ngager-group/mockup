@@ -1,0 +1,38 @@
+{
+  "id": 18362,
+  "name": "Test game",
+  "description": "Test game",
+  "inputForm": "{\"quiz\":{\"18362\":{\"answerId\":1,\"answer\":\"AAA\",\"question\":\"Test quiz\",\"questionId\":18362}}}",
+  "inputData": {
+    "quiz": {
+      "18362": {
+        "answerId": 1,
+        "answer": "AAA",
+        "question": "Test quiz",
+        "questionId": 18362
+      }
+    }
+  },
+  "settings": {},
+  "portalGameForm": {
+    "template": null,
+    "portalGameFormI18ns": [],
+    "id": 13714,
+    "created": "2020-03-17T07:43:40.567",
+    "lastUpdated": null
+  },
+  "theme": {
+    "color": null,
+    "icon": null,
+    "backgroundColor": "#417505",
+    "backgroundImageSrc": "https://awesome-images.azureedge.net/aep/intrum/resources/ca8be687-2177-4ebd-b745-07a5fda3cdab_math_1_800.jpg",
+    "backgroundIcon": "",
+    "iconClass": "fa fa-lightbulb-o"
+  },
+  "completed": "2020-03-17T07:46:05.48",
+  "gameCategoryId": 2077,
+  "template": "{\"type\":\"quiz\",\"fields\":[{\"type\":\"quiz\",\"name\":\"quiz\",\"caption\":\"Test quiz\",\"validationMessage\":\"You have to select an answer.\",\"mandatory\":true,\"options\":[{\"answerId\":1,\"caption\":\"AAA\",\"isCorrect\":true},{\"answerId\":2,\"caption\":\"BBB\",\"isCorrect\":false},{\"answerId\":3,\"caption\":\"CCC\",\"isCorrect\":false}],\"questionId\":18362}]}",
+  "gameCompletionId": 1517913,
+  "gameTypeId": 1,
+  "gameTypeName": "QUIZ"
+}
